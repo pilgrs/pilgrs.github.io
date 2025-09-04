@@ -2,19 +2,34 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Ich bin dann mal im Internet</title>
-    <link>https://pilgrs.github.io/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on Ich bin dann mal im Internet</description>
     <generator>Hugo -- 0.149.0</generator>
     <language>de</language>
-    <lastBuildDate>Tue, 02 Sep 2025 15:02:32 +0900</lastBuildDate>
-    <atom:link href="https://pilgrs.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 04 Sep 2025 18:24:52 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Wir kommen zurecht</title>
+      <link>http://localhost:1313/posts/20250905/</link>
+      <pubDate>Thu, 04 Sep 2025 18:24:52 +0900</pubDate>
+      <guid>http://localhost:1313/posts/20250905/</guid>
+      <description>&lt;h3 id=&#34;annika-büsing&#34;&gt;Annika Büsing&lt;/h3&gt;
+&lt;h5 id=&#34;288-seiten-8-august-bis-10-august&#34;&gt;288 Seiten, 8. August bis 10. August&lt;/h5&gt;
+&lt;p&gt;Dieses Buch war die Bestseller-Challenge bei eat.READ.sleep.
+Es war nicht einfach zu organisieren, aber ich habe es in einer Bücherei in Seoul gefunden, reserviert und abgeholt.&lt;/p&gt;
+&lt;h2 id=&#34;das-setup&#34;&gt;Das Setup&lt;/h2&gt;
+&lt;p&gt;Wir treffen Philipp, aus dessen Sicht erzählt wird, kurz vor seinem 18. Geburtstag, kurz vor seinem Abitur.
+Er lebt mit seinem Vater und dessen Freundin in einem großen Haus ein gutes Leben.
+Die Mutter wird hinter vorgehaltener Hand besprochen.
+&amp;ldquo;sie&amp;rdquo;.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Finders Keepers</title>
-      <link>https://pilgrs.github.io/posts/20250902/</link>
+      <link>http://localhost:1313/posts/20250902/</link>
       <pubDate>Tue, 02 Sep 2025 15:02:32 +0900</pubDate>
-      <guid>https://pilgrs.github.io/posts/20250902/</guid>
+      <guid>http://localhost:1313/posts/20250902/</guid>
       <description>&lt;h3 id=&#34;stephen-king&#34;&gt;Stephen King&lt;/h3&gt;
-&lt;h5 id=&#34;635-seiten-108-bis-138&#34;&gt;635 Seiten, 10.8. bis 13.8.&lt;/h5&gt;
+&lt;h5 id=&#34;635-seiten-10-august-bis-13-august&#34;&gt;635 Seiten, 10. August bis 13. August&lt;/h5&gt;
 &lt;p&gt;&amp;ldquo;Finders Keepers&amp;rdquo; ist der zweite Teil einer Trilogie von Stephen King.
 Der Erste Roman ist &amp;ldquo;Mr. Mercedes&amp;rdquo;.
 In ihnen geht es um Detektiv (im Ruhestand) Bill Hodges, der im ersten Teil von einem alten Fall heimgesucht wird und sich entschließt, die Ermittlungen aufzunehmen.
@@ -22,20 +37,20 @@ Ich weiß nicht mehr genau, wann ich Mr. Mercedes gelesen habe, aber es war endl
     </item>
     <item>
       <title>Blaues Wunder</title>
-      <link>https://pilgrs.github.io/posts/20250831/</link>
+      <link>http://localhost:1313/posts/20250831/</link>
       <pubDate>Sun, 31 Aug 2025 13:25:18 +0900</pubDate>
-      <guid>https://pilgrs.github.io/posts/20250831/</guid>
+      <guid>http://localhost:1313/posts/20250831/</guid>
       <description>&lt;h3 id=&#34;anne-freytag&#34;&gt;Anne Freytag&lt;/h3&gt;
-&lt;h5 id=&#34;256-seiten-298-bis-308&#34;&gt;256 Seiten, 29.8. bis 30.8.&lt;/h5&gt;
+&lt;h5 id=&#34;256-seiten-29-august-bis-30-august&#34;&gt;256 Seiten, 29. August bis 30. August&lt;/h5&gt;
 &lt;p&gt;Ich fand dieses Buch sowohl auf der Bestsellerliste der unabhängigen Verlage, als auch in der digitalen Bibliothek des Goethe-Instituts.
 Letztere hat den Nachteil, dass ich nicht auf dem Kindle lesen kann. Es benötigt Android oder iOS, also las ich auf dem Handy.
 Hat im Dunkeln auch was, es ist aber natürlich weniger angenehm als auf dem Digital Ink Display (Oder wie diese komische Technik heißt…) des Kindle.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Ein Jahr</title>
-      <link>https://pilgrs.github.io/posts/20240803/</link>
+      <link>http://localhost:1313/posts/20240803/</link>
       <pubDate>Sat, 03 Aug 2024 09:38:25 +0900</pubDate>
-      <guid>https://pilgrs.github.io/posts/20240803/</guid>
+      <guid>http://localhost:1313/posts/20240803/</guid>
       <description>&lt;p&gt;Ihr habt es wahrscheinlich auch mitbekommen:
 Es war gerade ein Jahr.&lt;/p&gt;
 &lt;p&gt;So langsam haben wir uns alle eingewöhnt.
@@ -50,9 +65,9 @@ Aber auch das gehört nun einmal dazu.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Ferien</title>
-      <link>https://pilgrs.github.io/posts/20240725/</link>
+      <link>http://localhost:1313/posts/20240725/</link>
       <pubDate>Thu, 25 Jul 2024 09:44:18 +0900</pubDate>
-      <guid>https://pilgrs.github.io/posts/20240725/</guid>
+      <guid>http://localhost:1313/posts/20240725/</guid>
       <description>&lt;p&gt;Guten Morgen,&lt;/p&gt;
 &lt;p&gt;ab heute hat Mika Ferien.
 Helena hat noch bis Freitag Schule.
@@ -71,9 +86,9 @@ Das wäre fantastisch.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Ein paar Kleinigkeiten</title>
-      <link>https://pilgrs.github.io/posts/20240718/</link>
+      <link>http://localhost:1313/posts/20240718/</link>
       <pubDate>Thu, 18 Jul 2024 09:47:01 +0900</pubDate>
-      <guid>https://pilgrs.github.io/posts/20240718/</guid>
+      <guid>http://localhost:1313/posts/20240718/</guid>
       <description>&lt;p&gt;Hallo ihr Lieben,&lt;/p&gt;
 &lt;p&gt;fünf Mal war ich jetzt am Goethe-Institut als Lehrer.
 Das sind 20UE.
@@ -86,9 +101,9 @@ Es ist mir tatsächlich ungewohnt Menschen zu unterrichten, die von mir auch ler
     </item>
     <item>
       <title>Der erste Unterricht</title>
-      <link>https://pilgrs.github.io/posts/20240706/</link>
+      <link>http://localhost:1313/posts/20240706/</link>
       <pubDate>Sat, 06 Jul 2024 19:43:40 +0900</pubDate>
-      <guid>https://pilgrs.github.io/posts/20240706/</guid>
+      <guid>http://localhost:1313/posts/20240706/</guid>
       <description>&lt;p&gt;Ich hab es geschafft.
 Gestern hatte ich meinen ersten Unterricht.&lt;/p&gt;
 &lt;p&gt;Ich habe mich den Donnerstag mit der Planung ziemlich wahnsinnig gemacht.
@@ -108,12 +123,12 @@ Mal sehen wie das dann wird.&lt;/p&gt;</description>
     </item>
     <item>
       <title>ganz gut</title>
-      <link>https://pilgrs.github.io/posts/20240704/</link>
+      <link>http://localhost:1313/posts/20240704/</link>
       <pubDate>Thu, 04 Jul 2024 11:04:48 +0900</pubDate>
-      <guid>https://pilgrs.github.io/posts/20240704/</guid>
+      <guid>http://localhost:1313/posts/20240704/</guid>
       <description>&lt;p&gt;Ihr Lieben,&lt;/p&gt;
 &lt;p&gt;Ich bin heute in ein Café gegangen um meinen morgigen Unterricht vorzubereiten:&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;Ganz gut&#34; loading=&#34;lazy&#34; src=&#34;https://pilgrs.github.io/img/20240704-01.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Ganz gut&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/20240704-01.jpg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Es ist tatsächlich nichts ungewöhnliches sich zum arbeiten oder lernen in ein Café zu setzen.
 Ich bin auch nicht der einzige.
 Ich kam an und bestellte meinen Kaffee.
@@ -123,9 +138,9 @@ Direkt hat mich die nette Dame nach einem Blick auf meine Tasche gefragt, ob ich
     </item>
     <item>
       <title>Ich bin noch da</title>
-      <link>https://pilgrs.github.io/posts/20240701/</link>
+      <link>http://localhost:1313/posts/20240701/</link>
       <pubDate>Sun, 30 Jun 2024 23:57:49 +0900</pubDate>
-      <guid>https://pilgrs.github.io/posts/20240701/</guid>
+      <guid>http://localhost:1313/posts/20240701/</guid>
       <description>&lt;p&gt;Ihr Lieben,&lt;/p&gt;
 &lt;p&gt;nächsten Freitag ist mein erster Arbeitstag am Goethe-Institut in Seoul.
 Es ist ist Tag zwei des A2.1 Superintensivkurses des kommenden Monats.
@@ -138,25 +153,25 @@ Ich habe mir den Schädel zerbrochen bei der Stundenplanung.&lt;/p&gt;</descript
     </item>
     <item>
       <title>The Road goes ever on and on</title>
-      <link>https://pilgrs.github.io/posts/20231120/</link>
+      <link>http://localhost:1313/posts/20231120/</link>
       <pubDate>Mon, 20 Nov 2023 14:08:58 +0900</pubDate>
-      <guid>https://pilgrs.github.io/posts/20231120/</guid>
+      <guid>http://localhost:1313/posts/20231120/</guid>
       <description>&lt;p&gt;Die Bücher von Tolkien begleiten mich schon eine ziemliche Weile - meine Deutsche Übersetzung vom kleinen Hobbit (hieß damals so) ist von 1999.
 Auch wenn ich zwischendurch immer mal wieder genug von ihnen habe, komme ich doch immer wieder zu ihnen zurück.&lt;/p&gt;
 &lt;p&gt;Momentan gehe ich ja viel durch die Gegend.
 Das tut mir gut.
 Macht den  Kopf frei.
 Und da fand ich mich plötzlich hier:&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;The road&#34; loading=&#34;lazy&#34; src=&#34;https://pilgrs.github.io/img/20231120-01.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;The road&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/20231120-01.jpg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Da ist mir ein Gedicht aus den Büchern eingefallen.
 In Mittelerde wird es von Bilbo Baggins (zu Deutsch: Beutlin) verfasst.
 Es gibt alleine im Herrn der Ringe drei verschiedene Versionen, dazu noch zwei im Hobbit.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Kulturschock</title>
-      <link>https://pilgrs.github.io/posts/20231107/</link>
+      <link>http://localhost:1313/posts/20231107/</link>
       <pubDate>Tue, 07 Nov 2023 12:26:31 +0900</pubDate>
-      <guid>https://pilgrs.github.io/posts/20231107/</guid>
+      <guid>http://localhost:1313/posts/20231107/</guid>
       <description>&lt;p&gt;Je nachdem wen man fragt - und je nachdem wo man liest - gibt es verschiedene Definitionen für den Kulturschock.
 Manchmal liest man, er sei der Tiefpunkt nach der ersten Euphorie in einer neuen Kultur zu leben.
 Der Kultuschock ist in dieser Definition die zweite Phase der Akkulturation.
@@ -168,9 +183,9 @@ Ich habe versucht das nachzuprüfen, bin aber nicht sehr weit gekommen und bin d
     </item>
     <item>
       <title>Symmetrie</title>
-      <link>https://pilgrs.github.io/posts/20231102/</link>
+      <link>http://localhost:1313/posts/20231102/</link>
       <pubDate>Thu, 02 Nov 2023 10:50:36 +0900</pubDate>
-      <guid>https://pilgrs.github.io/posts/20231102/</guid>
+      <guid>http://localhost:1313/posts/20231102/</guid>
       <description>&lt;p&gt;Helena macht momentan gerne Anton.
 Das ist eine Lernplattform, die an deutschen Schulen sowohl für Hausaufgaben als auch für die Lernzeit in der Schule benutzt wird.
 Die gibt es als App zum aber auch  online unter &lt;a href=&#34;https://anton.app/&#34;&gt;https://anton.app/&lt;/a&gt;.&lt;/p&gt;
@@ -181,9 +196,9 @@ Es gibt Aufgaben zu Grammatik, Wortschatz und Rechtschreibung.&lt;/p&gt;
     </item>
     <item>
       <title>Platz</title>
-      <link>https://pilgrs.github.io/posts/20231002/</link>
+      <link>http://localhost:1313/posts/20231002/</link>
       <pubDate>Mon, 02 Oct 2023 11:54:36 +0900</pubDate>
-      <guid>https://pilgrs.github.io/posts/20231002/</guid>
+      <guid>http://localhost:1313/posts/20231002/</guid>
       <description>&lt;p&gt;Das tägliche Leben hat uns so langsam aber sicher wieder.
 Helena ist  in der Schule und da auffällig glücklich.
 Sie trifft sich sogar nachmittags mit Freundinnen.
@@ -196,12 +211,12 @@ Aber das beschäftigt einen nicht 16 wache Stunden.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Unterschied Nr. 3: Der UV-Sterilisator im Bad</title>
-      <link>https://pilgrs.github.io/posts/20230913/</link>
+      <link>http://localhost:1313/posts/20230913/</link>
       <pubDate>Wed, 13 Sep 2023 21:24:54 +0900</pubDate>
-      <guid>https://pilgrs.github.io/posts/20230913/</guid>
+      <guid>http://localhost:1313/posts/20230913/</guid>
       <description>&lt;p&gt;In allen Baadezimmern hier, zu mindest in allen die ich bisher sah, hängt ein Gerät im Badezimmer.
 Normalerweise am Spiegel angeklebt und an eine Steckdose eingestöpselt fristet  es dort sein Dasein:&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;Etwas dreckig…&#34; loading=&#34;lazy&#34; src=&#34;https://pilgrs.github.io/img/20230913-01.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Etwas dreckig…&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/20230913-01.jpg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Dieses ist das Exemplar in unserem Badezimmer.
 Wenn man die Klappe öffnet, findet man darin Zahnbürstenköpfe und Rasierer.&lt;/p&gt;
 &lt;p&gt;Das Ding ist ein UV-Sterilisator.&lt;/p&gt;
@@ -212,9 +227,9 @@ Die  Bäder sind also insgesamt eher nass und feucht.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Unterschied Nr. 2: Alter</title>
-      <link>https://pilgrs.github.io/posts/20230908/</link>
+      <link>http://localhost:1313/posts/20230908/</link>
       <pubDate>Fri, 08 Sep 2023 08:32:26 +0900</pubDate>
-      <guid>https://pilgrs.github.io/posts/20230908/</guid>
+      <guid>http://localhost:1313/posts/20230908/</guid>
       <description>&lt;p&gt;Heute mal eine kleine Kuriosität, bei der ich  mir nie sicher bin.
 Finden es Koreaner bescheuert, dass es so ist, oder sind sie insgeheim stolz so etwas einzigartiges zu haben?&lt;/p&gt;
 &lt;p&gt;In Korea ist man ein bis zwei Jahre älter als im Rest der Welt.
@@ -223,9 +238,9 @@ Ist man noch dazu offensichtlich nicht koreanischer Abstammung, ist es am sicher
     </item>
     <item>
       <title>Der Urlaub ist vorbei</title>
-      <link>https://pilgrs.github.io/posts/20230902/</link>
+      <link>http://localhost:1313/posts/20230902/</link>
       <pubDate>Sat, 02 Sep 2023 20:09:16 +0900</pubDate>
-      <guid>https://pilgrs.github.io/posts/20230902/</guid>
+      <guid>http://localhost:1313/posts/20230902/</guid>
       <description>&lt;h3 id=&#34;der-urlaub&#34;&gt;Der Urlaub&lt;/h3&gt;
 &lt;p&gt;Seit Anfang Juli lebten wir als Familie in einem Zwischenzustand zwischen Leben und Urlaub.
 Alles war neu.
@@ -240,9 +255,9 @@ Die Aufregung in einem Haus mit Aufzug zu wohnen.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Erster Schultag</title>
-      <link>https://pilgrs.github.io/posts/20230710/</link>
+      <link>http://localhost:1313/posts/20230710/</link>
       <pubDate>Mon, 10 Jul 2023 13:53:39 +0900</pubDate>
-      <guid>https://pilgrs.github.io/posts/20230710/</guid>
+      <guid>http://localhost:1313/posts/20230710/</guid>
       <description>&lt;p&gt;Schon wieder  ein erster Schultag.
 Ich dachte eigentlich das kommt erst mit Mika wieder.&lt;/p&gt;
 &lt;p&gt;Minny hat Helena  heute früh in die Schule gebracht.
@@ -253,9 +268,9 @@ Der Weg ist etwas komplizierter als in Wuppertal, und wir haben ihn noch nicht v
     </item>
     <item>
       <title>Ein ganz normaler Samstag</title>
-      <link>https://pilgrs.github.io/posts/20230708/</link>
+      <link>http://localhost:1313/posts/20230708/</link>
       <pubDate>Sat, 08 Jul 2023 20:46:35 +0900</pubDate>
-      <guid>https://pilgrs.github.io/posts/20230708/</guid>
+      <guid>http://localhost:1313/posts/20230708/</guid>
       <description>&lt;h3 id=&#34;die-letzten-wochen-waren-alles-andere-als-auch-nur-ansatzweise-normal&#34;&gt;Die letzten Wochen waren alles andere als auch nur ansatzweise normal&lt;/h3&gt;
 &lt;p&gt;Das liegt ja wohl auf der Hand.
 Irgendwie.&lt;/p&gt;
@@ -270,9 +285,9 @@ Die meisten in Sichtweite voneinander.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Ein Sonntag Nachmittag</title>
-      <link>https://pilgrs.github.io/posts/20230604/</link>
+      <link>http://localhost:1313/posts/20230604/</link>
       <pubDate>Sun, 04 Jun 2023 19:59:33 +0200</pubDate>
-      <guid>https://pilgrs.github.io/posts/20230604/</guid>
+      <guid>http://localhost:1313/posts/20230604/</guid>
       <description>&lt;p&gt;Hallo ihr alle!&lt;/p&gt;
 &lt;p&gt;Ich habe mir  vorgenommen mein nächster Post wird weniger ein Stream of consciousness und mehr ein sinnvoll lesbarer Text.
 Ich vermute ich werde dies dieses Mal wieder nicht schaffen.&lt;/p&gt;
@@ -283,9 +298,9 @@ Ich will euch ja eben nichts vorspielen, sondern erzählen wie es mir geht.&lt;/
     </item>
     <item>
       <title>Infos</title>
-      <link>https://pilgrs.github.io/posts/20230522/</link>
+      <link>http://localhost:1313/posts/20230522/</link>
       <pubDate>Mon, 22 May 2023 12:37:31 +0200</pubDate>
-      <guid>https://pilgrs.github.io/posts/20230522/</guid>
+      <guid>http://localhost:1313/posts/20230522/</guid>
       <description>&lt;p&gt;Heute gibt es mal ein paar Daten:&lt;/p&gt;
 &lt;h3 id=&#34;der-216&#34;&gt;Der 21.6.&lt;/h3&gt;
 &lt;p&gt;ist der letzte  Schultag vor den Sommerferien.
@@ -307,9 +322,9 @@ Wir werden also die Wohnung zur Schlüsselübergabe vorbereiten, müssen aber au
     </item>
     <item>
       <title>Vom Einpacken</title>
-      <link>https://pilgrs.github.io/posts/20230518/</link>
+      <link>http://localhost:1313/posts/20230518/</link>
       <pubDate>Thu, 18 May 2023 21:17:50 +0200</pubDate>
-      <guid>https://pilgrs.github.io/posts/20230518/</guid>
+      <guid>http://localhost:1313/posts/20230518/</guid>
       <description>&lt;p&gt;In Zukunft werde ich sicher auch noch lernen Bilder und andere Dinge miteinzubinden. Für heute reicht mir der nackige Text.&lt;/p&gt;
 &lt;p&gt;Hier bei uns laufen die letzten Meter Kistenpacken.
 Am 26.5., das ist nächsten Freitag, kommt die Spedition und holt unser Gepäck ab.
@@ -318,9 +333,9 @@ Ansonsten wäre Abholung an der Bordsteinkante die Norm, aber ich sehe es nicht 
     </item>
     <item>
       <title>Vom Bremsen</title>
-      <link>https://pilgrs.github.io/posts/20230509/</link>
+      <link>http://localhost:1313/posts/20230509/</link>
       <pubDate>Tue, 09 May 2023 08:54:01 +0200</pubDate>
-      <guid>https://pilgrs.github.io/posts/20230509/</guid>
+      <guid>http://localhost:1313/posts/20230509/</guid>
       <description>&lt;p&gt;Dies ist mein erster echter Post. Ich dachte mir ich beginne diesen Blog mit einer witzigen Episode:&lt;/p&gt;
 &lt;p&gt;Wir saßen beim Abendessen. Ich weiß nicht mehr genau worum es ging, ich bin mir aber ziemlich sicher, dass Mikas Frage nicht ganz aus dem Zusammenhang war&lt;br&gt;
 &amp;ldquo;Papa, stimmt es, dass man beim Essen nicht bremsen kann?&amp;rdquo;&lt;br&gt;
